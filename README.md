@@ -126,21 +126,20 @@ ping google.com
 ---
 
 ## 📁 Repository Structure
-
-```
 Simple-VPC-Design/
 │
 ├── README.md
+├── LICENSE
 ├── architecture-diagram.png
-├── screenshots/
-│   ├── 01-vpc.png
-│   ├── 02-subnets.png
-│   ├── 03-route-table.png
-│   ├── 04-internet-gateway.png
-│   ├── 05-security-group.png
-│   ├── 06-ec2-instance.png
-│   └── 07-ssh-connected.png
-└── Project_Report.pdf
+│
+└── screenshots/
+    ├── 01-vpc.png
+    ├── 02-subnets.png
+    ├── 03-internet-gateway.png
+    ├── 04-route-table.png
+    ├── 05-ec2-instance.png
+    ├── 06-putty-connection.png
+    └── 07-ping-test.png
 ```
 
 ---
